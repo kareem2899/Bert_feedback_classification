@@ -1,4 +1,4 @@
-Project Description
+
 This project utilizes the IMDB Dataset of 50K Movie Reviews for sentiment analysis tasks.=> (Available on Kaggle)
 We employ the nlptown/bert-base-multilingual-uncased-sentiment model, available on Hugging Face, which is a powerful pre-trained model capable of classifying customer feedback across multiple languages.
 
